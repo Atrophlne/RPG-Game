@@ -1,0 +1,8 @@
+D:\Microsoft Visual C#\RPG\RPG\obj\x86\Debug\RPG.CharCreate.resources
+D:\Microsoft Visual C#\RPG\RPG\obj\x86\Debug\RPG.Rpg_Menu.resources
+D:\Microsoft Visual C#\RPG\RPG\obj\x86\Debug\RPG.Properties.Resources.resources
+D:\Microsoft Visual C#\RPG\RPG\obj\x86\Debug\RPG.csproj.GenerateResource.Cache
+D:\Microsoft Visual C#\RPG\RPG\bin\Debug\RPG.exe
+D:\Microsoft Visual C#\RPG\RPG\bin\Debug\RPG.pdb
+D:\Microsoft Visual C#\RPG\RPG\obj\x86\Debug\RPG.exe
+D:\Microsoft Visual C#\RPG\RPG\obj\x86\Debug\RPG.pdb
